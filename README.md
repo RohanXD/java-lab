@@ -16,23 +16,24 @@ Welcome to my **Java Class Questions Repository**! 🚀 This repository contains
 
 ```
 📦 Java-Class-Questions
-├── 📁 Basics
-│   ├── Question1_HelloWorld.java
-│   ├── Question2_SimpleMath.java
-│   └── Question3_ArrayOperations.java
-├── 📁 ControlStatements
-│   ├── Question1_IfElse.java
-│   ├── Question2_SwitchCase.java
-│   └── Question3_Loops.java
-├── 📁 Functions
-│   ├── Question1_MethodsDemo.java
-│   ├── Question2_RecursionExample.java
-│   └── Question3_FunctionOverloading.java
-├── 📁 Miscellaneous
-│   ├── Question1_StringManipulation.java
-│   ├── Question2_ExceptionHandling.java
-│   └── Question3_FileOperations.java
+├── 📁 Lab_Questions
+│   ├── LabQuestion1.java
+│   ├── LabQuestion2.java
+│   └── LabQuestion3.java
+├── 📁 Static
+│   ├── StaticDemo1.java
+│   ├── StaticDemo2.java
+│   └── StaticDemo3.java
+├── 📁 WrapperClass
+│   ├── WrapperExample1.java
+│   ├── WrapperExample2.java
+│   └── WrapperExample3.java
+└── 📁 Package/University
+    ├── PackageDemo1.java
+    ├── UniversityExample1.java
+    └── UniversityExample2.java
 ```
+
 ## 🗂️ Topics Covered
 
 - **Basics**: Introduction to Java, printing, and basic operations.
